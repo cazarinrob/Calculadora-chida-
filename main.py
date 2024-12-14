@@ -13,4 +13,4 @@ modelo = Modelo()
 controlador = Controlador(modelo, windows)
 
 windows.show()
-app.exec_()
+app.exec()
